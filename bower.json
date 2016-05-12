@@ -1,0 +1,21 @@
+{
+  "name": "flatlanders_angular",
+  "description": "",
+  "main": "scripts.js",
+  "authors": [
+    "Lauri Mäkinen <latemak@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#^4.6.2",
+    "bootstrap-sass": "bootstrap-sass-official#^3.3.6"
+  }
+}
